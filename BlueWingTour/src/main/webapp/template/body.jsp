@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.18/themes/base/jquery-ui.css" type="text/css"/>
 <style type="text/css">
-body {/* ddd */
+body {
     font-size: 16px;
     font-family: "맑은 고딕","Malgun Gothic","Apple SD Gothic Neo","Dotum",Helvetica,Sans-serif;
     color: #555;
