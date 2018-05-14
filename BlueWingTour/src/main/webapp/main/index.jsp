@@ -23,6 +23,8 @@
   <div align="center" style="height:10%">
       <%-- <jsp:include page="../template/bottom.jsp"></jsp:include> --%>
   </div>
+  <br><br><br><br><br><br><br><br>
+  <br>
 </div>   
 </body>
 </html>
